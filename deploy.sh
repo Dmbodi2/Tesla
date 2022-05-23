@@ -13,11 +13,6 @@ deploymwent4
 deploy to staging env
 echo good job
 Tested and accepted
-<<<<<<< HEAD
 tested and approved by client QA team
 
-
-
-=======
->>>>>>> 300e9c9 (tested and approved by client's QA team)
 
