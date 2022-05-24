@@ -9,4 +9,10 @@ Tested and accepted
 
 Deploy python apps
 deploy in dev env
+deploymwent4
+deploy to staging env
+echo good job
+Tested and accepted
+tested and approved by client's QA team
+
 
