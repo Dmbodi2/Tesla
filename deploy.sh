@@ -7,3 +7,6 @@ deploy to staging env
 echo good job
 Tested and accepted
 
+Deploy python apps
+deploy in dev env
+
